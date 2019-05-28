@@ -1,0 +1,60 @@
+baseurl         = "https://hirozhang.com"
+theme           = "casper-two"
+languageCode    = "en-US"
+disqusShortname = ""
+paginate        = 6
+#SectionPagesMenu = "main"
+
+[params]
+  title       = "Welcome to Hiro Zhang's Zone"
+  subtitle    = "My Awesome Blog"
+
+  cover       = "img/blog-cover.jpg"
+  description = "Here is a description of your site."
+  metaDescription = ""
+  googleAnalytics = ""
+  customCSS = []
+  RSSLink = ""
+  InsName = "goaheadmcdull"
+  twitterName = ""
+  fbName = "Charles Zhang"
+  githubName = "HaoZhangUNSW"
+
+  logo = ""
+  orgName = "HZ"
+  orgWebsite = "https://www.telematika.org"
+  orgDescription = "Here is a description placeholder for your org"
+
+  author = "Hao Zhang"
+  authorAvatar = "uploads/myimage.jpg"
+  authorLocation = "Sydney, AU"
+  authorWebsite = "https://eueung.github.io"
+  authorDescription = "Adventurer"
+
+  pageNotFoundTitle = "404 - Page not found"
+
+  #casper or caspertwo
+  singleViewStyle = "casper"
+
+[permalinks]
+  post = "/:slug/"
+
+[[menu.main]]
+  name = "Main"
+  url = "/"
+  weight = 200
+
+[[menu.main]]
+  name = "Projects"
+  url = "/tags/project/"
+  weight = 100
+
+[[menu.main]]
+  name = "My Life"
+  url = "/categories/life/"
+  weight = 99
+
+[[menu.main]]
+  name = "Google"
+  url = "https://google.com/"
+  weight = 95

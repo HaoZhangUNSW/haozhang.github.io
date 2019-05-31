@@ -21,14 +21,14 @@ paginate        = 6
   githubName = "HaoZhangUNSW"
 
   logo = ""
-  orgName = "HZ"
+  orgName = "EM"
   orgWebsite = "https://www.telematika.org"
   orgDescription = "Here is a description placeholder for your org"
 
   author = "Hao Zhang"
   authorAvatar = "uploads/myimage.jpg"
   authorLocation = "Sydney, AU"
-  authorWebsite = "https://eueung.github.io"
+  authorWebsite = "https://haozhang.github.io"
   authorDescription = "Adventurer"
 
   pageNotFoundTitle = "404 - Page not found"

@@ -53,6 +53,11 @@ paginate        = 6
   name = "My Life"
   url = "/categories/life/"
   weight = 99
+  
+[[menu.main]]
+  name = "NLP learning"
+  url = "/categories/nlp/"
+  weight = 99
 
 [[menu.main]]
   name = "Google"

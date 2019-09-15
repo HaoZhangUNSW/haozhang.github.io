@@ -5,8 +5,8 @@ date: 2019-09-15
 url: "/categories/KG/"
 image: "uploads/cover.jpg"
 ---
-# <font color=#000000 size=5 >知识图谱  knowledge graph，KG</font>  
-## <font color=#000000 size=4 >知识图谱相关内容：</font>  
+# <font color=#000000 size=5 >知识图谱  knowledge graph，KG</font>
+## <font color=#000000 size=4 >知识图谱相关内容：</font>
 <font color=#000000 size=4 >
 知识表示、知识抽取、知识存储、知识融合  
 知识推理、知识众包、语义搜索、知识问答 

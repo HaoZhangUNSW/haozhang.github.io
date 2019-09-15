@@ -47,7 +47,7 @@ paginate        = 6
 [[menu.main]]
   name = "NLP learning"
   url = "/categories/nlp/"
-  weight = 99
+  weight = 100
 
 [[menu.main]]
   name = "Projects"

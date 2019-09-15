@@ -1,7 +1,7 @@
 ---
 title: "Knowledge graph 1"
 draft: false
-date: 15-09-2019
+date: 2019-09-15
 url: "/categories/KG/"
 image: "uploads/cover.jpg"
 ---

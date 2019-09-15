@@ -1,7 +1,7 @@
 ---
 title: "Knowledge graph1"
 draft: false
-url = "/categories/KG/KG1"
+url: "/categories/KG/KG1"
 image: "uploads/cover.jpg"
 ---
 # 知识图谱  knowledge graph，KG

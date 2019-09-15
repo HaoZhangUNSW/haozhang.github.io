@@ -50,6 +50,11 @@ paginate        = 6
   weight = 100
 
 [[menu.main]]
+  name = "Knowledge Graph"
+  url = "/categories/KG/"
+  weight = 100
+
+[[menu.main]]
   name = "Projects"
   url = "/tags/project/"
   weight = 100

@@ -3,7 +3,7 @@ title: "NLP Road"
 date: 2019-05-28T19:40:25+10:00
 draft: false
 url: "/categories/nlp/"
-image: "/"
+image: "themes/casper-two/exampleSite/static/img/welcome.jpg"
 ---
 Thanks for your coming!
 

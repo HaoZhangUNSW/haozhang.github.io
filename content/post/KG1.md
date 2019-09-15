@@ -1,7 +1,8 @@
 ---
-title: "Knowledge graph1"
+title: "Knowledge graph 1"
 draft: false
-url: "/categories/KG/KG1"
+date: 15-09-2019
+url: "/categories/KG/"
 image: "uploads/cover.jpg"
 ---
 # 知识图谱  knowledge graph，KG

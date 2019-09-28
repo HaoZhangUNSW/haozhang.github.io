@@ -48,6 +48,11 @@ paginate        = 6
   name = "NLP learning"
   url = "/categories/nlp/"
   weight = 100
+  
+[[menu.main]]
+  name = "Computational ad"
+  url = "/categories/CA/"
+  weight = 101
 
 [[menu.main]]
   name = "Knowledge Graph"

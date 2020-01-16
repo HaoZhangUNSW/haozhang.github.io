@@ -65,7 +65,7 @@ paginate        = 6
   weight = 100
 
 [[menu.main]]
-  name = "My Life"
+  name = "Internship life"
   url = "/categories/life/"
   weight = 99
   
